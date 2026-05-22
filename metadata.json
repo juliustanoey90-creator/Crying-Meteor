@@ -1,0 +1,8 @@
+{
+  "name": "Crying Meteor",
+  "description": "A nostalgic 8-bit web arcade experience featuring collectible folklore supernatural creatures reimagined as cute, emotionally awkward companions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
