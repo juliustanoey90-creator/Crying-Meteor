@@ -3,6 +3,8 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
+import { Analytics } from '@vercel/analytics/react';
+
 import StarField from "./components/StarField";
 import MeteorField from "./components/MeteorField";
 import ClawMachine from "./components/ClawMachine";
@@ -38,6 +40,8 @@ export default function App() {
           <span>SLOT: 01</span>
         </div>
       </div>
+
+      <Analytics />
     </div>
   );
 }
